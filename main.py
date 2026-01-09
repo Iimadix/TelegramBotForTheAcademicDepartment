@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 import logic
 import keyboards
 
-TOKEN = "8558021959:AAFqo4036jRpfOPvjchdw_TzBM9Z5uq0A3c"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
